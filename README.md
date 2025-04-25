@@ -85,10 +85,10 @@ It also opens the door to applications in electronics (like programmable PCB mas
 * Alligator Clips / Banana Plug Wires
   * For connecting the power supply to the anode and cathode. Ensure corrosion-resistant contacts.
 ### Cathode Setup
-* Cleaning supplies (**optional**)
+* Cleaning supplies
   * Hydrocloric/Muratic Acid - For cleaning and removing corrosion before plating.
   * Dish Soap - For degreasing metal before plating.
-* Polishing Supplies (**optional**)
+* Polishing Supplies (**optional**, depends on metal being plated or condition of metal)
   * Sandpaper (600, 800, 1000, 2000 grit) - used to grind metal down before plating to remove inconsistencies
   * Polishing kit - a jewelery polishing kit or drill kit can be used, ensures consistent surface before plating. Can also be used after plating to make an image shine.
 ### Miscellaneous and Safety
