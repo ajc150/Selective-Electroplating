@@ -10,6 +10,7 @@ Here, you'll find:
 
 Use this page as a launchpad to explore the fundamentals of electroplating, then take it further—modify the system, test new metals, or optimize for finer detail. The project is built to be iterative and open-ended. Let the plating begin!
 ## Contents
+Coming soon!
 ## Fundamentals
 ### Electroplating
 Let's start with the basics - what even is electroplating?
@@ -48,7 +49,7 @@ This setup lets us turn electroplating into a digital fabrication process. By co
 * Achieve high reproducibility across multiple runs
 
 It also opens the door to applications in electronics (like programmable PCB masking), metal 3D printing, and metal-based art—anywhere spatial control over metal deposition matters.
-## Materials and Setup
+## Materials
 ### Electroplating Components
 * Electrolyte Bath Container (shallow plastic dish)
   * Holds the plating solution and the cathode (the surface to be plated). Needs to be chemically resistant.
@@ -79,3 +80,24 @@ It also opens the door to applications in electronics (like programmable PCB mas
 * Clamp or Mount Adapter for Nozzle
   * Attaches the funnel/nozzle to the Z-axis tool holder of the CNC router.
   * One file attached, an [adapter for the benchtop 3018 CNC](/FunneltoCNCAdapter.stl). If using another CNC router, may need to create a custom design. Can print using PLA.
+* Benchtop DC Power Supply
+  * Provides controlled current (typically 4-6V, 1–20 mA) between the anode and cathode during plating. May need voltages of up to 20V depending on nozzle size and bath conductivity.
+* Alligator Clips / Banana Plug Wires
+  * For connecting the power supply to the anode and cathode. Ensure corrosion-resistant contacts.
+### Cathode Setup
+* Cleaning supplies (**optional**)
+  * Hydrocloric/Muratic Acid - For cleaning and removing corrosion before plating.
+  * Dish Soap - For degreasing metal before plating.
+* Polishing Supplies (**optional**)
+  * Sandpaper (600, 800, 1000, 2000 grit) - used to grind metal down before plating to remove inconsistencies
+  * Polishing kit - a jewelery polishing kit or drill kit can be used, ensures consistent surface before plating. Can also be used after plating to make an image shine.
+### Miscellaneous and Safety
+* Nitrile Gloves and Safety Glasses
+  * Required for chemical safety when handling electrolyte and acids.
+* pH Strips (**optional**)
+  * Used to monitor the acidity of the solution. Only needed for solution troubleshooting
+* Paper Towels / Wipes / Brushes
+  * For cleaning surfaces before and after plating.
+  * When cleaning after plating, use a microfiber cloth, KimWipe, or equivalent to avoid damaging plating while it is setting.
+## Setup
+This page is still under construction, please check back later for more details! Planned completion date is May 3rd 2025
