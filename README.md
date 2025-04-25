@@ -74,13 +74,8 @@ It also opens the door to applications in electronics (like programmable PCB mas
   * Platform used in this project - Candle. Other personal favorites are equally as viable.
 * Plastic Funnel or Nozzle Tip (3D printed)
   * Mounted to the CNC spindle holder; serves as the outlet for controlled electrolyte flow.
-  * Two files attached, a [1 mm nozzle](main/Funnel1mmnozzle.stl) and a [2 mm nozzle](main/Funnel2mmnozzle.stl). Can print using PLA. 
-Should allow close contact between the anode and the plating surface.
-
-Tubing and Reservoir (optional)
-
-For feeding electrolyte to the nozzle using gravity or a small pump if continuous flow is desired.
-
-Clamp or Mount Adapter for Nozzle
-
-Attaches the funnel/nozzle to the Z-axis tool holder of the CNC router.
+  * Two files attached, a [1 mm nozzle](main/Funnel1mmnozzle.stl) and a [2 mm nozzle](main/Funnel2mmnozzle.stl). Can print using PLA.
+  * This project printed this file using an Ultimaker S3. If using another 3D printer, may need to adjust file tolerances.
+* Clamp or Mount Adapter for Nozzle
+  * Attaches the funnel/nozzle to the Z-axis tool holder of the CNC router.
+  * One file attached, an [adapter for the benchtop 3018 CNC](main/FunneltoCNCAdapter.stl). If using another CNC router, may need to create a custom design. Can print using PLA.
