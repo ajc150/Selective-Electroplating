@@ -268,7 +268,7 @@ If you're after a reflective or smooth surface:
 * A small amount of metal polish can enhance shine, but avoid over-polishing thin coatings.
 * Only polish once the coating is confirmed to be well-adhered and dry.
 
-Note - it is not recommended to polish the surface of most images, as the buffing can remove the less plated regions. Reserve polishing for "binary" black and white/plated and unplated images. Experiment at your own risk
+Note - it is not recommended to polish the surface of most images, as the buffing can remove the less plated regions. Reserve polishing for "binary" black and white/plated and unplated images. Experiment at your own risk.
 
 Optional: Protective Coating
 
