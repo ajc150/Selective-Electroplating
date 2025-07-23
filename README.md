@@ -194,7 +194,7 @@ How to Test:
 
 In general, low gamma values will show more uniform plating, and high gamma values will create sharper contrasts. An example of this function call can be found as a comment.
 ### Interpreting Results
-The series of gradient lines you just generated is more than just a test—it’s a personalized plating reference guide tailored to your machine, solution, and conditions.
+The series of gradient lines you just generated is more than just a test-it’s a personalized plating reference guide tailored to your machine, solution, and conditions.
 
 Each line, defined by a specific gamma value, shows how the plating appears across the same brightness range (from 0 to 255). You’ll notice some lines have a smooth gradient, while others transition more sharply. This helps you determine how brightness maps to dwell time—and in turn, to plating thickness.
 
